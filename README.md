@@ -20,12 +20,13 @@ It is assumed that [Conda](https://docs.conda.io/en/latest/miniconda.html) is in
 ```
 conda create -n fpsp python=3.7
 conda activate fpsp
-conda install jupyter nb_conda_kernels
+conda install jupyter nb_conda_kernels mkl numpy scipy theano
+conda install -c conda-forge pymc3
 ```
 
 The following packages are required to be installed within the new conda environment.
 
-`pip install numpy matplotlib scipy`
+`pip install matplotlib pandas  `
 
 In order to execute a python notebook, activate the conda environment, navigate to the root folder of the repository and start jupyter.
 
