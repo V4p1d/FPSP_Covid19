@@ -1,4 +1,4 @@
-# Simulations for the FPSP paper.
+# Simulations for the PLOS One FPSP paper.
 The models used in these simulations refer to the spread of the Covid19 and were both validated using the data from the Italian outbreak (see [GitHub](https://github.com/pcm-dpc/COVID-19)).
 
 A description of the SIDARTHE can be found in this [Nature paper](https://www.nature.com/articles/s41591-020-0883-7).
