@@ -50,6 +50,7 @@ The folders are organised as follows:
 - `notebooks/01 Quarantine Effectiveness (Figure 8).ipynb` generates Figure 8.
 - `notebooks/02 Compensatory Behavior (Figure 9).ipynb` generates Figure 9.
 - `notebooks/03 Parameter Uncertainty (Figure 10).ipynb` generates Figure 10.
+- `notebooks/04 Level Curves (Figs. 11-12).ipynb` generates Figures 11 and 12.
 - `notebooks/99 SEIR_Gamma (response to reviewers).ipynb` simulates an SEIR model with Gamma-distributed incubation time and recovery time. Example simulations were included in the responses to reviewers.
 
 ### `matlab/`
