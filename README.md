@@ -31,7 +31,7 @@ conda install -c conda-forge pymc3
 
 The following packages are required to be installed within the new conda environment.
 
-`pip install matplotlib pandas  `
+`pip install ax-platform matplotlib pandas plotly`
 
 In order to execute a python notebook, activate the conda environment, navigate to the root folder of the repository and start jupyter.
 
