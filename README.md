@@ -47,6 +47,7 @@ The folders are organised as follows:
 
 ### `python/`
 
+- `notebooks/00 Figure 3 (top).ipynb` generates Figure 3 (top).
 - `notebooks/01 Quarantine Effectiveness (Figure 8).ipynb` generates Figure 8.
 - `notebooks/02 Compensatory Behavior (Figure 9).ipynb` generates Figure 9.
 - `notebooks/03 Parameter Uncertainty (Figure 10).ipynb` generates Figure 10.
